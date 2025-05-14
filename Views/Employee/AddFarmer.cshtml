@@ -1,0 +1,64 @@
+﻿@model ST10070933PROG7311.Models.Farmer
+@{
+    ViewData["Title"] = "Add Farmer";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+    <div class="card shadow-sm p-4" style="width: 100%; max-width: 500px;">
+        <h4 class="mb-4 text-center">Add Farmer</h4>
+
+        @if (TempData["successMessage"] != null)
+        {
+            <div class="alert alert-success">@TempData["successMessage"]</div>
+        }
+        @if (TempData["errorMessage"] != null)
+        {
+            <div class="alert alert-danger">@TempData["errorMessage"]</div>
+        }
+
+        <form asp-action="AddFarmer" method="post">
+            @Html.AntiForgeryToken()
+
+            <div class="mb-3">
+                <label asp-for="FirstName" class="form-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="LastName" class="form-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="FarmName" class="form-label"></label>
+                <input asp-for="FarmName" class="form-control" />
+                <span asp-validation-for="FarmName" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Location" class="form-label"></label>
+                <input asp-for="Location" class="form-control" />
+                <span asp-validation-for="Location" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ContactNumber" class="form-label">Contact Number</label>
+                <input asp-for="ContactNumber" class="form-control" />
+                <span asp-validation-for="ContactNumber" class="text-danger small"></span>
+            </div>
+
+            <div class="d-grid gap-2">
+                <button type="submit" class="btn btn-dark">Add Farmer</button>
+                <a asp-action="AllFarmers" class="btn btn-outline-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

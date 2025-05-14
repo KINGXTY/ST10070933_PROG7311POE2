@@ -1,0 +1,53 @@
+﻿@model ST10070933PROG7311.Models.Product
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+    <div class="card shadow-sm p-4" style="width: 100%; max-width: 500px;">
+        <h4 class="mb-4 text-center">Add Product</h4>
+
+        @if (TempData["successMessage"] != null)
+        {
+            <div class="alert alert-success">@TempData["successMessage"]</div>
+        }
+        @if (TempData["errorMessage"] != null)
+        {
+            <div class="alert alert-danger">@TempData["errorMessage"]</div>
+        }
+
+        <form asp-action="AddProduct" method="post">
+            @Html.AntiForgeryToken()
+
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label">Product Name *</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Category" class="form-label">Category *</label>
+                <input asp-for="Category" class="form-control" />
+                <span asp-validation-for="Category" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ProductionDate" class="form-label">Production Date *</label>
+                <input asp-for="ProductionDate" class="form-control" type="date"
+                       max="@DateTime.Today.ToString("yyyy-MM-dd")" />
+                <span asp-validation-for="ProductionDate" class="text-danger small"></span>
+            </div>
+
+            <div class="d-grid gap-2">
+                <button type="submit" class="btn btn-dark">Add Product</button>
+                <a asp-action="MyProducts" class="btn btn-outline-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
