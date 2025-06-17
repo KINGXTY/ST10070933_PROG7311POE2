@@ -1,0 +1,57 @@
+﻿@model ST10070933PROG7311.Models.User
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+    <div class="card shadow-sm p-4" style="width: 100%; max-width: 450px;">
+        <h4 class="mb-4 text-center">Register</h4>
+
+        @if (TempData["errorMessage"] != null)
+        {
+            <div class="alert alert-danger">@TempData["errorMessage"]</div>
+        }
+        @if (TempData["successMessage"] != null)
+        {
+            <div class="alert alert-success">@TempData["successMessage"]</div>
+        }
+
+        <form asp-action="Register" method="post">
+            <div class="mb-3">
+                <label asp-for="Username" class="form-label"></label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label"></label>
+                <input asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Role" class="form-label"></label>
+                <select asp-for="Role" class="form-select">
+                    <option value="">Select Role</option>
+                    <option value="Farmer">Farmer</option>
+                    <option value="Employee">Employee</option>
+                </select>
+                <span asp-validation-for="Role" class="text-danger small"></span>
+            </div>
+
+            <div class="d-grid">
+                <button type="submit" class="btn btn-dark">Register</button>
+            </div>
+        </form>
+
+        <div class="text-center mt-3 small">
+            Already have an account? <a asp-action="Login" class="text-decoration-none">Login</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

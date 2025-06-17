@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\farmer\\myproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\farmer\\myproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\farmer\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\farmer\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\employee\\filterproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\employee\\filterproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\employee\\allfarmers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\employee\\allfarmers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\employee\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\employee\\addfarmer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\models\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|c:\\users\\lab_services_student\\source\\repos\\st10070933prog7311\\st10070933prog7311\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{045D1A79-1E72-47C0-BBD5-B4377F8E000D}|ST10070933PROG7311\\ST10070933PROG7311.csproj|solutionrelative:st10070933prog7311\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\appsettings.json",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\appsettings.json",
+              "RelativeToolTip": "ST10070933PROG7311\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T09:43:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Program.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Program.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:43:39.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:36:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Models\\Farmer.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Models\\Farmer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Models\\Farmer.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Models\\Farmer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:28:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Models\\Product.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:28:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Models\\User.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:28:59.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddFarmer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Employee\\AddFarmer.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Employee\\AddFarmer.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Employee\\AddFarmer.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Employee\\AddFarmer.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:08:31.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllFarmers.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Employee\\AllFarmers.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Employee\\AllFarmers.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Employee\\AllFarmers.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Employee\\AllFarmers.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:08:44.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilterProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Employee\\FilterProducts.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Employee\\FilterProducts.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Employee\\FilterProducts.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Employee\\FilterProducts.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:08:54.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Farmer\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Farmer\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Farmer\\AddProduct.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Farmer\\AddProduct.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:26:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Farmer\\MyProducts.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Farmer\\MyProducts.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Farmer\\MyProducts.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Farmer\\MyProducts.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:09:19.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T10:48:03.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:09:30.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Controllers\\FarmerController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Controllers\\FarmerController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:35:29.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:35:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ST10070933PROG7311\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:49:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:08:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:10:06.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ST10070933PROG7311\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-14T09:51:40.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "ST10070933PROG7311\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\ST10070933PROG7311\\ST10070933PROG7311\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "ST10070933PROG7311\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:10:18.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
