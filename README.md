@@ -19,11 +19,13 @@ SETUP PROCESS
    "ConnectionStrings": {
   "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=AgriDb;Trusted_Connection=True;" }
 
-4) Apply Migrations 
+4) Apply Migrations
    Open the Package Manager Console and run:
+   "Add-Migration InitialCreate" run this 
+   and then run
    "Update-Database"
    
-5) Build and Run the Project
+6) Build and Run the Project
 
 
 BUILDING AND RUNNING THE PROTOTYPE
